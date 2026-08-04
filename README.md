@@ -28,11 +28,13 @@
 
  👨‍💻 About Me
 
-<table>
+<table width="100%">
 <tr>
-<td width="45%" align="center" style="padding:12px;">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width:100%; height:auto; border-radius:8px;" />
+<td width="50%" align="center" style="padding:12px;">
+
+<!-- Large GIF (50% width of the section) -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:100%; max-width:700px; height:auto; border-radius:8px;" alt="profile-gif" />
 
 <br><br>
 
@@ -40,8 +42,9 @@
 
 </td>
 
-<td width="55%" style="padding:12px; vertical-align:top; text-align:left;">
+<td width="50%" style="padding:12px; vertical-align:top; text-align:left;">
 
+<!-- Code block with language class for syntax highlighting -->
 <pre><code class="language-javascript">const tarun = {
   name: "Tarun Sakhamuri",
   location: "India 🇮🇳",
@@ -69,6 +72,7 @@
 };</code></pre>
 
 </td>
+
 </tr>
 </table>
 
