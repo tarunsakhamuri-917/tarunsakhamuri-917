@@ -26,7 +26,7 @@
 
 ---
 
-# 👨‍💻 About Me
+ 👨‍💻 About Me
 
 <table>
 
@@ -44,7 +44,7 @@
 
 <td width="50%">
 
-```javascript
+javascript
 const tarun = {
 
     name: "Tarun Sakhamuri",
@@ -91,7 +91,7 @@ const tarun = {
     }
 
 };
-```
+---
 
 </td>
 
@@ -122,7 +122,7 @@ const tarun = {
 
 </div>
 
----# <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"> Tech Ecosystem
+ <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"> Tech Ecosystem
 
 <div align="center">
 
