@@ -26,55 +26,76 @@
 
 ---
 
- 👨‍💻 About Me
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
-<table width="100%">
+<table>
+
 <tr>
 
-<td width="50%" align="center" style="padding:12px;">
+<td width="55%">
 
-<!-- Large GIF (50% width of the section) -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:100%; max-width:700px; height:auto; border-radius:8px;" alt="profile-gif" />
+```javascript
+const tarun = {
 
-<br><br>
+    name: "Tarun Sakhamuri",
 
-<img src="https://github-profile-trophy.vercel.app/?username=tarunsakhamuri-917&theme=algolia&column=3&row=2&margin-w=15&margin-h=15&no-frame=true" style="max-width:92%;"/>
+    location: "India 🇮🇳",
+
+    role: "Full Stack Developer",
+
+    currentlyLearning: [
+        "React.js",
+        "Next.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Machine Learning"
+    ],
+
+    interests: [
+        "Web Development",
+        "Artificial Intelligence",
+        "Open Source"
+    ],
+
+    motto: "Build • Learn • Repeat",
+
+    life() {
+
+        while (true) {
+
+            code();
+
+            learn();
+
+            build();
+
+            repeat();
+
+        }
+
+    }
+
+};
+```
 
 </td>
 
-<td width="50%" style="padding:12px; vertical-align:top; text-align:left;">
+<td width="45%" align="center">
 
-<!-- Code block with language class for syntax highlighting -->
-<pre><code class="language-javascript">const tarun = {
-  name: "Tarun Sakhamuri",
-  location: "India 🇮🇳",
-  role: "Full Stack Developer",
-  education: "B.Tech (ECE)",
-  currentlyLearning: [
-    "React.js",
-    "Next.js",
-    "Node.js",
-    "Express.js",
-    "MongoDB",
-    "Machine Learning",
-    "Deep Learning"
-  ],
-  interests: ["AI", "Web Development", "System Design", "Open Source"],
-  motto: "Build • Learn • Repeat",
-  life() {
-    while (true) {
-      code();
-      learn();
-      build();
-      improve();
-    }
-  }
-};</code></pre>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=350&lines=Full+Stack+Developer;React+%7C+Next.js;Node.js+%7C+MongoDB;Machine+Learning;Always+Learning+🚀"/>
 
 </td>
 
 </tr>
+
 </table>
+
+---
 
 ---
 
