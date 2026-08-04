@@ -1,14 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C9FF,50:7F5AF0,100:FF0080&text=Tarun%20Sakhamuri&fontSize=65&fontAlignY=40&fontColor=ffffff&animation=fade[...] 
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Next.js+[...]
-
-<br>
-
-<a href="https://github.com/tarunsakhamuri-917">
-<img <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C9FF,50:7F5AF0,100:FF0080&text=Tarun%20Sakhamuri&fontSize=65&fontAlignY=40&fontColor=ffffff&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Next.js+Developer;Node.js+%7C+MongoDB;Machine+Learning+Enthusiast;Building+Projects+Every+Day;Welcome+to+My+GitHub+Profile"/>
