@@ -26,63 +26,55 @@
 
 ---
 
-# 👨‍💻 About Me
+## 📊 About Me
 
 <table>
 <tr>
 
-<td width="45%" valign="top">
+<td width="60%" valign="top">
 
 ```javascript
 const tarun = {
-  name: "Tarun Sakhamuri",
-  role: "Full Stack Developer",
-  location: "India 🇮🇳",
+    location: "India 🇮🇳",
 
-  learning: [
-    "React",
-    "Next.js",
-    "Node.js",
-    "Express",
-    "MongoDB",
-    "Machine Learning"
-  ],
+    role: "Full Stack Developer",
 
-  interests: [
-    "Web Development",
-    "Artificial Intelligence",
-    "Open Source"
-  ],
+    currentlyLearning: [
+        "React",
+        "Next.js",
+        "Node.js",
+        "MongoDB"
+    ],
 
-  motto: "Build • Learn • Repeat",
+    interests: [
+        "Web Development",
+        "Artificial Intelligence",
+        "Open Source"
+    ],
 
-  life() {
-    while (true) {
-      code();
-      learn();
-      build();
-      repeat();
+    motto: "Build • Learn • Repeat",
+
+    life() {
+        while (true) {
+            code();
+            learn();
+            build();
+            repeat();
+        }
     }
-  }
 };
 ```
 
 </td>
 
-<td width="55%" align="center" valign="middle">
+<td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
 
 </td>
 
 </tr>
 </table>
-
----
-
-
-
-<div align="center">
 
 ## ⚡ Current Focus
 
