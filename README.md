@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C9FF,50:7F5AF0,100:FF0080&text=Tarun%20Sakhamuri&fontSize=65&fontAlignY=40&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Next.js+Developer;Node.js+%7C+MongoDB;Machine+Learning+Enthusiast;Building+Projects+Every+Day;Welcome+to+My+GitHub+Profile"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Next.js+Enthusiast;Open+Source+Contributor"/>
 
 <br>
 
@@ -29,74 +29,47 @@
  👨‍💻 About Me
 
 <table>
-
 <tr>
+<td width="45%" align="center" style="padding:12px;">
 
-<td width="50%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width:100%; height:auto; border-radius:8px;" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=tarunsakhamuri-917&theme=algolia&column=3&row=2&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=tarunsakhamuri-917&theme=algolia&column=3&row=2&margin-w=15&margin-h=15&no-frame=true" style="max-width:92%;"/>
 
 </td>
 
-<td width="50%">
+<td width="55%" style="padding:12px; vertical-align:top; text-align:left;">
 
-javascript
-const tarun = {
-
-    name: "Tarun Sakhamuri",
-
-    location: "India 🇮🇳",
-
-    role: "Full Stack Developer",
-
-    education: "B.Tech (ECE)",
-
-    currentlyLearning: [
-        "React.js",
-        "Next.js",
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "Machine Learning",
-        "Deep Learning"
-    ],
-
-    interests: [
-        "AI",
-        "Web Development",
-        "System Design",
-        "Open Source"
-    ],
-
-    motto: "Build • Learn • Repeat",
-
-    life() {
-
-        while(true){
-
-            code();
-
-            learn();
-
-            build();
-
-            improve();
-
-        }
-
+<pre><code class="language-javascript">const tarun = {
+  name: "Tarun Sakhamuri",
+  location: "India 🇮🇳",
+  role: "Full Stack Developer",
+  education: "B.Tech (ECE)",
+  currentlyLearning: [
+    "React.js",
+    "Next.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Machine Learning",
+    "Deep Learning"
+  ],
+  interests: ["AI", "Web Development", "System Design", "Open Source"],
+  motto: "Build • Learn • Repeat",
+  life() {
+    while (true) {
+      code();
+      learn();
+      build();
+      improve();
     }
-
-};
----
+  }
+};</code></pre>
 
 </td>
-
 </tr>
-
 </table>
 
 ---
@@ -305,7 +278,7 @@ const tarun = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tarunsakhamuri-917&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tarunsakhamuri-917&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6"/>
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunsakhamuri-917&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8"/>
 
@@ -315,7 +288,7 @@ const tarun = {
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsakhamuri-917&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsakhamuri-917&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=9CA3AF"/>
 
 </div>
 
