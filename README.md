@@ -26,26 +26,24 @@
 
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> About Me
+# 👨‍💻 About Me
 
 <table>
 <tr>
 
-<td width="58%" valign="top">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=35&section=header&text=aboutMe.js&fontSize=18&fontColor=58A6FF"/>
+<td width="45%" valign="top">
 
 ```javascript
 const tarun = {
   name: "Tarun Sakhamuri",
-  location: "India 🇮🇳",
   role: "Full Stack Developer",
+  location: "India 🇮🇳",
 
-  currentlyLearning: [
-    "React.js",
+  learning: [
+    "React",
     "Next.js",
     "Node.js",
-    "Express.js",
+    "Express",
     "MongoDB",
     "Machine Learning"
   ],
@@ -71,13 +69,9 @@ const tarun = {
 
 </td>
 
-<td width="42%" align="center" valign="top">
+<td width="55%" align="center" valign="middle">
 
-<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=280&lines=React.js;Next.js;Node.js;MongoDB;Machine+Learning"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
 </td>
 
@@ -86,9 +80,7 @@ const tarun = {
 
 ---
 
----
 
----
 
 <div align="center">
 
