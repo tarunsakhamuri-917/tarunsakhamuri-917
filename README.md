@@ -274,7 +274,7 @@ const tarun = {
 
 </div>
 
----# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> GitHub Analytics
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> GitHub Analytics
 
 <div align="center">
 
@@ -333,7 +333,7 @@ src="https://raw.githubusercontent.com/tarunsakhamuri-917/tarunsakhamuri-917/out
 
 </div>
 
----# <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="35"> Featured Projects
+ <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="35"> Featured Projects
 
 <div align="center">
 
