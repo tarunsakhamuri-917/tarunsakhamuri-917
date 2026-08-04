@@ -7,6 +7,15 @@
 <br>
 
 <a href="https://github.com/tarunsakhamuri-917">
+<img <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C9FF,50:7F5AF0,100:FF0080&text=Tarun%20Sakhamuri&fontSize=65&fontAlignY=40&fontColor=ffffff&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Next.js+Developer;Node.js+%7C+MongoDB;Machine+Learning+Enthusiast;Building+Projects+Every+Day;Welcome+to+My+GitHub+Profile"/>
+
+<br>
+
+<a href="https://github.com/tarunsakhamuri-917">
 <img src="https://skillicons.dev/icons?i=github" height="48"/>
 </a>
 
@@ -23,6 +32,106 @@
 <img src="https://komarev.com/ghpvc/?username=tarunsakhamuri-917&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
 </div>
+
+---
+
+# 👨‍💻 About Me
+
+<table>
+
+<tr>
+
+<td width="50%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=tarunsakhamuri-917&theme=algolia&column=3&row=2&margin-w=15&margin-h=15&no-frame=true"/>
+
+</td>
+
+<td width="50%">
+
+```javascript
+const tarun = {
+
+    name: "Tarun Sakhamuri",
+
+    location: "India 🇮🇳",
+
+    role: "Full Stack Developer",
+
+    education: "B.Tech (ECE)",
+
+    currentlyLearning: [
+        "React.js",
+        "Next.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Machine Learning",
+        "Deep Learning"
+    ],
+
+    interests: [
+        "AI",
+        "Web Development",
+        "System Design",
+        "Open Source"
+    ],
+
+    motto: "Build • Learn • Repeat",
+
+    life() {
+
+        while(true){
+
+            code();
+
+            learn();
+
+            build();
+
+            improve();
+
+        }
+
+    }
+
+};
+```
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+## ⚡ Current Focus
+
+| 🚀 | Current Goal |
+|:--:|--------------|
+| 💻 | Building Full Stack Projects |
+| 🤖 | Learning Machine Learning |
+| 🌐 | Mastering Next.js |
+| ⚡ | Becoming a Software Engineer |
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F7F7&center=true&width=700&lines=Code.;Learn.;Build.;Repeat."/>
+
+</div>
+
+---
 
 ---
 
