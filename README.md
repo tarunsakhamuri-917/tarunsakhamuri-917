@@ -26,74 +26,65 @@
 
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> About Me
 
 <table>
-
 <tr>
 
-<td width="55%">
+<td width="58%" valign="top">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=35&section=header&text=aboutMe.js&fontSize=18&fontColor=58A6FF"/>
 
 ```javascript
 const tarun = {
+  name: "Tarun Sakhamuri",
+  location: "India 🇮🇳",
+  role: "Full Stack Developer",
 
-    name: "Tarun Sakhamuri",
+  currentlyLearning: [
+    "React.js",
+    "Next.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Machine Learning"
+  ],
 
-    location: "India 🇮🇳",
+  interests: [
+    "Web Development",
+    "Artificial Intelligence",
+    "Open Source"
+  ],
 
-    role: "Full Stack Developer",
+  motto: "Build • Learn • Repeat",
 
-    currentlyLearning: [
-        "React.js",
-        "Next.js",
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "Machine Learning"
-    ],
-
-    interests: [
-        "Web Development",
-        "Artificial Intelligence",
-        "Open Source"
-    ],
-
-    motto: "Build • Learn • Repeat",
-
-    life() {
-
-        while (true) {
-
-            code();
-
-            learn();
-
-            build();
-
-            repeat();
-
-        }
-
+  life() {
+    while (true) {
+      code();
+      learn();
+      build();
+      repeat();
     }
-
+  }
 };
 ```
 
 </td>
 
-<td width="45%" align="center">
+<td width="42%" align="center" valign="top">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<br><br>
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=350&lines=Full+Stack+Developer;React+%7C+Next.js;Node.js+%7C+MongoDB;Machine+Learning;Always+Learning+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=280&lines=React.js;Next.js;Node.js;MongoDB;Machine+Learning"/>
 
 </td>
 
 </tr>
-
 </table>
+
+---
 
 ---
 
