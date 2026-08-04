@@ -1,26 +1,26 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C9FF,50:5B86E5,100:7F00FF&text=Tarun%20Sakhamuri&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C9FF,50:7F5AF0,100:FF0080&text=Tarun%20Sakhamuri&fontSize=65&fontAlignY=40&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1200&color=00F7F7&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;MERN+Stack+Developer;Next.js+Developer;Machine+Learning+Enthusiast;Always+Learning+Something+New;Welcome+to+My+GitHub+Profile"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Next.js+Developer;Node.js+%7C+MongoDB;Machine+Learning+Enthusiast;Building+Projects+Every+Day;Welcome+to+My+GitHub+Profile"/>
 
 <br>
 
 <a href="https://github.com/tarunsakhamuri-917">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
 </a>
 
 <a href="https://www.instagram.com/tsakhamuri_917?igsh=NXB0OTczYzkwcTZl">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=instagram" height="48"/>
 </a>
 
 <a href="mailto:tarunsakamuri2020@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=tarunsakhamuri-917&label=Visitors&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=tarunsakhamuri-917&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
@@ -32,17 +32,17 @@
 
 <tr>
 
-<td width="45%" align="center">
+<td width="50%" align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=tarunsakhamuri-917&theme=algolia&no-frame=true&no-bg=true&row=2&column=3"/>
+<img src="https://github-profile-trophy.vercel.app/?username=tarunsakhamuri-917&theme=algolia&column=3&row=2&margin-w=15&margin-h=15&no-frame=true"/>
 
 </td>
 
-<td width="55%">
+<td width="50%">
 
 ```javascript
 const tarun = {
@@ -53,57 +53,44 @@ const tarun = {
 
     role: "Full Stack Developer",
 
-    education: "B.Tech",
+    education: "B.Tech (ECE)",
 
     currentlyLearning: [
-
         "React.js",
-
         "Next.js",
-
         "Node.js",
-
+        "Express.js",
         "MongoDB",
-
         "Machine Learning",
-
         "Deep Learning"
-
     ],
 
     interests: [
-
-        "Artificial Intelligence",
-
-        "Full Stack Development",
-
-        "Problem Solving",
-
-        "Open Source",
-
-        "System Design"
-
+        "AI",
+        "Web Development",
+        "System Design",
+        "Open Source"
     ],
 
-    life(){
+    motto: "Build • Learn • Repeat",
 
-        while(alive){
+    life() {
 
-            eat();
+        while(true){
 
             code();
 
-            build();
-
             learn();
 
-            repeat();
+            build();
+
+            improve();
 
         }
 
     }
 
-}
+};
 ```
 
 </td>
@@ -114,53 +101,140 @@ const tarun = {
 
 ---
 
-## 🚀 Current Focus
-
-```text
-🔥 Building Real World Full Stack Projects
-
-📚 Learning Machine Learning & AI
-
-⚡ Mastering MERN Stack
-
-🎯 Preparing for Software Engineer Roles
-
-💡 Exploring Open Source
-```
-
----
-
 <div align="center">
 
-## ⚡ Developer Mindset
+## ⚡ Current Focus
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&width=700&lines=Code.;Debug.;Learn.;Repeat.;Build+Amazing+Projects."/>
+| 🚀 | Current Goal |
+|:--:|--------------|
+| 💻 | Building Full Stack Projects |
+| 🤖 | Learning Machine Learning |
+| 🌐 | Mastering Next.js |
+| ⚡ | Becoming a Software Engineer |
 
 </div>
 
 ---
 
-## 🌟 Quote
-
-> **"Consistency beats motivation. Small improvements every day create extraordinary results."**
-
----# 💻 Tech Universe
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,github,vscode,postman&perline=8"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F7F7&center=true&width=700&lines=Code.;Learn.;Build.;Repeat."/>
 
 </div>
 
----
-
-# 🤖 Artificial Intelligence & Machine Learning
+---# <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"> Tech Ecosystem
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,anaconda&perline=5"/>
+<table>
 
-<br><br>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🎨 Frontend</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=4"/>
+
+</div>
+
+<br>
+
+<ul>
+<li>⚛ React.js</li>
+<li>▲ Next.js</li>
+<li>🎨 Tailwind CSS</li>
+<li>📱 Responsive UI</li>
+<li>🧩 Component Architecture</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">⚙ Backend</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,npm,postman&perline=4"/>
+
+</div>
+
+<br>
+
+<ul>
+<li>🟢 Node.js</li>
+<li>🚀 Express.js</li>
+<li>🔐 JWT Authentication</li>
+<li>🌐 REST APIs</li>
+<li>📦 npm</li>
+</ul>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🗄 Database</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&perline=3"/>
+
+</div>
+
+<br>
+
+<ul>
+<li>🍃 MongoDB</li>
+<li>🐬 MySQL</li>
+<li>🔥 Firebase</li>
+<li>📊 Database Design</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">☁ Deployment</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify,docker,linux&perline=4"/>
+
+</div>
+
+<br>
+
+<ul>
+<li>▲ Vercel</li>
+<li>🌍 Netlify</li>
+<li>🐳 Docker</li>
+<li>🐧 Linux</li>
+</ul>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 AI / Machine Learning</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,anaconda&perline=3"/>
+
+</div>
+
+<br>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 
@@ -168,88 +242,35 @@ const tarun = {
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
 
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
 
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab"/>
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🛠 Tools</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux&perline=3"/>
 
 </div>
 
----
+<br>
 
-# 🚀 Full Stack Development
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🎨 Frontend
-
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- React.js
-- Next.js
-- Tailwind CSS
-- Bootstrap
-
-</td>
-
-<td width="50%">
-
-## ⚙ Backend
-
-- Node.js
-- Express.js
-- REST API
-- Authentication
-- JWT
-- MVC Architecture
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-## 🗄 Database
-
-- MongoDB
-- MySQL
-
-</td>
-
-<td>
-
-## 🛠 Tools
-
-- Git
-- GitHub
-- VS Code
-- Postman
-- npm
+<ul>
+<li>💻 VS Code</li>
+<li>🌿 Git</li>
+<li>🐙 GitHub</li>
+<li>🎨 Figma</li>
+<li>📮 Postman</li>
+</ul>
 
 </td>
 
 </tr>
 
 </table>
-
----
-
-# ☁️ DevOps & Cloud
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,linux,aws,firebase,vercel,netlify&perline=6"/>
 
 </div>
 
@@ -259,159 +280,64 @@ const tarun = {
 
 <div align="center">
 
-| 🚀 Technology | 📖 Progress |
-|---------------|------------|
-| React.js | ██████████ 100% |
-| Next.js | ███████░░░ 70% |
-| Node.js | ██████░░░░ 60% |
-| MongoDB | ██████░░░░ 60% |
-| Express.js | █████░░░░░ 50% |
-| Machine Learning | ███░░░░░░░ 30% |
-| Deep Learning | ██░░░░░░░░ 20% |
+| Technology | Progress |
+|------------|----------|
+| ⚛ React | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ |
+| ▲ Next.js | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ |
+| 🟢 Node.js | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ |
+| 🍃 MongoDB | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ |
+| 🤖 Machine Learning | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ |
+| 🧠 Deep Learning | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ |
 
 </div>
 
 ---
 
-# 🎯 Areas of Interest
+<div align="center">
+
+## ⚡ Tech Philosophy
+
+> **Build Clean • Learn Daily • Deploy Fast • Never Stop Improving**
+
+</div>
+
+---# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> GitHub Analytics
 
 <div align="center">
 
-🧠 Artificial Intelligence
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tarunsakhamuri-917&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
 
-💻 Full Stack Development
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunsakhamuri-917&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8"/>
 
-☁ Cloud Computing
+</div>
 
-📱 Web Applications
+<br>
 
-⚡ Open Source
+<div align="center">
 
-🤖 Machine Learning
-
-📊 Data Science
-
-🔒 Cyber Security
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsakhamuri-917&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF"/>
 
 </div>
 
 ---
 
-# 🛠 IDE & Workspace
+# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> Contribution Graph
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,github,git,postman,linux"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tarunsakhamuri-917&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📖 Currently Exploring
-
-```text
-📌 Advanced React
-
-📌 Next.js App Router
-
-📌 Express.js
-
-📌 MongoDB Aggregation
-
-📌 Machine Learning
-
-📌 Deep Learning
-
-📌 Generative AI
-
-📌 Data Structures & Algorithms
-
-📌 System Design
-```
-
----
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-## ⚡ Favorite Quote
-
-> "First, solve the problem. Then, write the code."
+<img src="https://github-profile-trophy.vercel.app/?username=tarunsakhamuri-917&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=4"/>
 
 </div>
-
----# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tarunsakhamuri-917&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunsakhamuri-917&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Most Used Languages
-
-<div align="center">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsakhamuri-917&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📉 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tarunsakhamuri-917&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tarunsakhamuri-917&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-# 📋 GitHub Summary Cards
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarunsakhamuri-917&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tarunsakhamuri-917&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tarunsakhamuri-917&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarunsakhamuri-917&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tarunsakhamuri-917&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
-
----
-
-# ⚡ Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=tarunsakhamuri-917&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-> **Note:** The WakaTime card will only display data if you have a WakaTime account connected. If you don't use WakaTime, you can remove this section.
 
 ---
 
@@ -434,39 +360,7 @@ src="https://raw.githubusercontent.com/tarunsakhamuri-917/tarunsakhamuri-917/out
 
 </div>
 
----
-
-# 🌟 Developer Statistics
-
-<div align="center">
-
-| Metric | Value |
-|--------|-------|
-| 💻 Focus | Full Stack Development |
-| 🤖 Learning | Machine Learning & AI |
-| 🌱 Currently Building | MERN Projects |
-| ⚡ Favorite Framework | Next.js |
-| 🧠 Goal | Software Engineer + AI Engineer |
-| 📚 Daily Habit | Learn • Build • Improve |
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Master React.js
-- ✅ Master Next.js
-- ✅ Learn Express.js
-- ✅ Learn MongoDB
-- ✅ Build 10+ Full Stack Projects
-- ✅ Learn Machine Learning
-- ✅ Learn Deep Learning
-- ✅ Contribute to Open Source
-- ✅ Crack a Software Engineering Role
-- ✅ Become an AI Engineer
-
----# 🚀 Featured Projects
+---# <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="35"> Featured Projects
 
 <div align="center">
 
@@ -476,35 +370,53 @@ src="https://raw.githubusercontent.com/tarunsakhamuri-917/tarunsakhamuri-917/out
 
 <td width="50%">
 
-### 🛒 E-Commerce Platform
+<h2 align="center">🛒 E-Commerce Platform</h2>
 
-**Tech Stack**
+<p align="center">
 
-Next.js • Node.js • MongoDB • Express
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,mongodb"/>
 
-✨ Features
+</p>
 
-- User Authentication
-- Shopping Cart
-- Payment Integration
-- Admin Dashboard
+<p align="center">
+
+A modern full-stack shopping platform with authentication, cart, wishlist, product search, and admin dashboard.
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/tarunsakhamuri-917">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 </td>
 
 <td width="50%">
 
-### 💬 Chat Application
+<h2 align="center">🔐 Authentication System</h2>
 
-**Tech Stack**
+<p align="center">
 
-React • Node.js • Socket.io • MongoDB
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb"/>
 
-✨ Features
+</p>
 
-- Real-time Messaging
-- Group Chat
-- Emoji Support
-- Online Status
+<p align="center">
+
+Complete authentication system with Login, Register, JWT Authentication and MongoDB integration.
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/tarunsakhamuri-917">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 </td>
 
@@ -514,35 +426,53 @@ React • Node.js • Socket.io • MongoDB
 
 <td width="50%">
 
-### 🤖 AI Resume Analyzer
+<h2 align="center">📅 Task Manager</h2>
 
-**Tech Stack**
+<p align="center">
 
-Python • Machine Learning • Flask
+<img src="https://skillicons.dev/icons?i=react,express,mongodb"/>
 
-✨ Features
+</p>
 
-- Resume Score
-- Skill Detection
-- ATS Analysis
-- Suggestions
+<p align="center">
+
+Manage daily tasks with authentication, reminders and a clean responsive dashboard.
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/tarunsakhamuri-917">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 </td>
 
 <td width="50%">
 
-### 📅 Task Management App
+<h2 align="center">🤖 AI Assistant</h2>
 
-**Tech Stack**
+<p align="center">
 
-Next.js • MongoDB • Tailwind CSS
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv"/>
 
-✨ Features
+</p>
 
-- Authentication
-- Calendar
-- Reminders
-- Drag & Drop
+<p align="center">
+
+Artificial Intelligence project focused on automation and smart user interaction.
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/tarunsakhamuri-917">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 </td>
 
@@ -554,170 +484,99 @@ Next.js • MongoDB • Tailwind CSS
 
 ---
 
-# 📜 Certifications
+# 🚀 Currently Working On
 
 <div align="center">
 
-🏅 Meta Front-End Development
-
-🏅 Google AI Fundamentals
-
-🏅 MongoDB Basics
-
-🏅 JavaScript Essentials
-
-🏅 React Developer
+| 🚀 Project | Status |
+|------------|--------|
+| 🛒 E-Commerce Platform | 🟢 In Progress |
+| 🤖 AI Projects | 🟢 Learning |
+| 🌐 Portfolio Website | 🟢 Building |
+| 📱 MERN Stack Projects | 🟢 Active |
 
 </div>
 
 ---
 
-# 📚 2026 Learning Roadmap
+# 🎯 2026 Goals
 
-```text
-██████████ HTML & CSS
+<div align="center">
 
-██████████ JavaScript
+🎯 Build 15+ Full Stack Projects
 
-█████████░ React.js
+🤖 Learn Machine Learning & Deep Learning
 
-████████░░ Next.js
+🚀 Master Next.js & Node.js
 
-███████░░░ Node.js
+🌍 Contribute to Open Source
 
-██████░░░░ Express.js
+💼 Get a Software Engineer Role
 
-██████░░░░ MongoDB
+</div>
 
-█████░░░░░ Machine Learning
+------
 
-███░░░░░░░ Deep Learning
-
-██░░░░░░░░ Generative AI
-```
-
----
-
-# 🌐 Connect With Me
+# <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="35"> Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/tarunsakhamuri-917">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.instagram.com/tsakhamuri_917?igsh=NXB0OTczYzkwcTZl">
-<img src="https://skillicons.dev/icons?i=instagram"/>
+<img src="https://skillicons.dev/icons?i=github" height="60"/>
 </a>
 
 <a href="mailto:tarunsakamuri2020@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="60"/>
+</a>
+
+<a href="https://www.instagram.com/tsakhamuri_917?igsh=NXB0OTczYzkwcTZl">
+<img src="https://skillicons.dev/icons?i=instagram" height="60"/>
 </a>
 
 </div>
 
 ---
 
-# 💡 Random Developer Quote
+# 💬 Developer Quote
 
 <div align="center">
 
-> **"The best way to predict the future is to build it."**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
 ---
 
-# 🎵 Coding Playlist
+# ⚡ Profile Views
 
 <div align="center">
 
-🎧 Lo-fi Beats
-
-🎧 Synthwave
-
-🎧 Deep Focus
-
-🎧 Coding Music
+<img src="https://komarev.com/ghpvc/?username=tarunsakhamuri-917&label=Visitors&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
 ---
 
-# ⚡ Fun Facts
+# ❤️ Support
 
-```javascript
-const funFacts = {
+<div align="center">
 
-    coffee: false,
+If you like my work, consider giving a ⭐ to my repositories.
 
-    bugsFixed: Infinity,
+It motivates me to build more amazing projects.
 
-    sleep: "Sometimes 😅",
-
-    favoriteEditor: "VS Code",
-
-    favoriteLanguage: "JavaScript",
-
-    dreamCompany: "Top Product-Based Company",
-
-    goal: "Become an AI + Full Stack Engineer"
-
-}
-```
-
----
-
-# 📊 Weekly Schedule
-
-| Day | Focus |
-|------|-------|
-| Monday | React |
-| Tuesday | Next.js |
-| Wednesday | Node.js |
-| Thursday | MongoDB |
-| Friday | Machine Learning |
-| Saturday | Build Projects |
-| Sunday | DSA + Revision |
-
----
-
-# 💻 Workspace
-
-```text
-💻 Laptop
-
-⌨️ VS Code
-
-🌐 Chrome
-
-⚛️ React
-
-▲ Next.js
-
-🟢 Node.js
-
-🍃 MongoDB
-
-🐍 Python
-
-🤖 Machine Learning
-```
-
----
-
-# ⭐ Support
-
-If you like my projects, consider giving them a ⭐.
+</div>
 
 ---
 
 <div align="center">
 
-## 🚀 Thanks for Visiting!
+## 🌟 Thanks for Visiting My Profile
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C9FF,50:5B86E5,100:7F00FF"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Thank+You+for+Visiting!;Happy+Coding!;See+You+Again!"/>
 
-### Happy Coding 💙
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:00C9FF,50:8B5CF6,100:FF0080"/>
 
 </div>
