@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C9FF,50:7F5AF0,100:FF0080&text=Tarun%20Sakhamuri&fontSize=65&fontAlignY=40&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C9FF,50:7F5AF0,100:FF0080&text=Tarun%20Sakhamuri&fontSize=65&fontAlignY=40&fontColor=ffffff&animation=fade[...] 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Next.js+Enthusiast;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Next.js+[...]
 
 <br>
 
@@ -77,6 +77,8 @@ const tarun = {
 </table>
 
 ## ⚡ Current Focus
+
+<div align="center">
 
 | 🚀 | Current Goal |
 |:--:|--------------|
@@ -288,7 +290,7 @@ const tarun = {
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsakhamuri-917&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=9CA3AF"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsakhamuri-917&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_co[...] 
 
 </div>
 
@@ -386,7 +388,7 @@ Complete authentication system with Login, Register, JWT Authentication and Mong
 <p align="center">
 
 <a href="https://github.com/tarunsakhamuri-917">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Source_CODE-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
