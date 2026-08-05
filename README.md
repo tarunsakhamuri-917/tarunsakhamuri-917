@@ -292,7 +292,7 @@ const tarun = {
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsakhamuri-917&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_co[...] 
+
 
 </div>
 
