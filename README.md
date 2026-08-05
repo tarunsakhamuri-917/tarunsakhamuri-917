@@ -20,7 +20,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=tarunsakhamuri-917&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
