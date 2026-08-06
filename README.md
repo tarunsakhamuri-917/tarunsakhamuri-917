@@ -524,13 +524,7 @@ Artificial Intelligence project focused on automation and smart user interaction
 
 ---
 
-# ⚡ Profile Views
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=tarunsakhamuri-917&label=Visitors&style=for-the-badge&color=blueviolet"/>
-
-</div>
 
 ---
 
